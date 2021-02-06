@@ -4,5 +4,5 @@
 2. data
 3. formats
 4. lin
-[github](http://github.com)
-[st.anns](https.sacet.ac.in)
+{emoji}(www.emoji-cheat-sheet.com)
+
