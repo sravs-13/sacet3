@@ -7,4 +7,4 @@
 
 _______
 [apssdc]{http://addssdc.com}
-[st.anns]{www.sacet.ac.in}
+[st.anns]{http.sacet.ac.in}
