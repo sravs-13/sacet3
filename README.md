@@ -5,4 +5,4 @@
 3. formats
 4. lin
 [github](http://github.com)
-[st.anns]{http.sacet.ac.in}
+[st.anns](https.sacet.ac.in}
