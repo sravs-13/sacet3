@@ -3,8 +3,6 @@
 1. spm
 2. data
 3. formats
-4. links
-
-_______
-[apssdc]{http://addssdc.com}
+4. lin
+http://github.com
 [st.anns]{http.sacet.ac.in}
